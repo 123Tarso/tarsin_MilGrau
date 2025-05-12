@@ -1,1 +1,1 @@
-# tarsin_MilGrau
+ basicamente, verifica se a lista de números que você fornece está vazia ou não. Se a lista estiver vazia, ela retorna a mensagem "A lista está vazia." Caso contrário, ela informa quantos elementos há na lista, usando a mensagem "A lista contém X elementos." No exemplo, a lista tem vários números, e o programa vai mostrar quantos elementos ela possui. É uma forma bem simples de verificar o conteúdo de uma lista!
